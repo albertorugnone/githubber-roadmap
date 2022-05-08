@@ -12,6 +12,8 @@ Quindi necessito di tutti gli strumenti per poter pubblicare i miei studi su git
 Per questo motivo ecco questa roadmap per diventare un favoloso githubber.
 ## (My) Roadmap 
 
+![My Roadmap](roadmap.drawio.svg)
+
 ### Markdown
 Obvously to edit something I need to know Markdown. Markdown is pretty simple and all it needed is there [Markdown Cheat sheet](https://www.markdownguide.org/cheat-sheet/).
 
@@ -21,7 +23,7 @@ In case editing of Markdown files is needed via github editor, the chrome plugin
 
 Also editing diagram and embedding them directly to markdown it is useful. To do so, I chose drawio plugin for VSCode, editing svg file and embed it directly. Here an example embedding a diagram generade with Marmaid VSCOde Plugin
 
-![Exampe](sample2.drawio.svg)
+![Exampe](sample.drawio.svg)
 ### Be able to include diagram
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
