@@ -21,10 +21,15 @@ Using Markdown imply to have a good editor to do that. I choose Visual Studio Co
 
 In case editing of Markdown files is needed via github editor, the chrome plugin [Monaco Markdown Editor](https://chrome.google.com/webstore/detail/monaco-markdown-editor-fo/mmpbdjdnmhgkpligeniippcgfmkgkpnf/related) can be useful.
 
+### Be able to embed diagrams
+
 Also editing diagram and embedding them directly to markdown it is useful. To do so, I chose drawio plugin for VSCode, editing svg file and embed it directly. Here an example embedding a diagram generade with Marmaid VSCOde Plugin
 
 ![Exampe](sample.drawio.svg)
-### Be able to include diagram
+
+### CI Tools
+
+### Artifacts repository
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
