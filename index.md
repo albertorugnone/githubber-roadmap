@@ -18,6 +18,8 @@ Obvously to edit something I need to know Markdown. Markdown is pretty simple an
 Using Markdown imply to have a good editor to do that. I choose Visual Studio Code and the list of plugins described [here](https://betterprogramming.pub/top-5-vscode-extensions-to-boost-productivity-when-using-markdown-b4d1bbeb7175).
 
 In case editing of Markdown files is needed via github editor, the chrome plugin [Monaco Markdown Editor](https://chrome.google.com/webstore/detail/monaco-markdown-editor-fo/mmpbdjdnmhgkpligeniippcgfmkgkpnf/related) can be useful.
+
+![Exampe](sample2.drawio.svg)
 ### Be able to include diagram
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
