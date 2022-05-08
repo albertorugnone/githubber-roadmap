@@ -1,10 +1,24 @@
-## Welcome to GitHub Pages
+## The beginning
+In questi giorni che sto cercando come rimodellare la mia carriera ho dovuto fare in conti con tante cose che dovrebbero essere nelle mie competenze.
 
-You can use the [editor on GitHub](https://github.com/albertorugnone/githubber-roadmap/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Ed è come un percorso da fare a ritroso che ti conduce, di fatto, all'inizio.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+E l'inizio, ovvero la prima competenza che devo acquisire, è "come rendere pubblico quello che provo ad imparare" o altrimenti e più semplicemente, come prenderne nota
+
+Poichè vorrei continuare ad occuparmi di software github è il luogo di elezione.
+
+Quindi necessito di tutti gli strumenti per poter pubblicare i miei studi su github nel modo più efficiente possibile, ovvero tutti gli strumenti per diventare un vero e proprio githubber.
+
+Per questo motivo ecco questa roadmap per diventare un favoloso githubber.
+## (My) Roadmap 
 
 ### Markdown
+Obvously to edit something I need to know Markdown. Markdown is pretty simple and all it needed is there [Markdown Cheat sheet](https://www.markdownguide.org/cheat-sheet/).
+
+Using Markdown imply to have a good editor to do that. I choose Visual Studio Code and the list of plugins described [here](https://betterprogramming.pub/top-5-vscode-extensions-to-boost-productivity-when-using-markdown-b4d1bbeb7175).
+
+In case editing of Markdown files is needed via github editor, the chrome plugin [Monaco Markdown Editor](https://chrome.google.com/webstore/detail/monaco-markdown-editor-fo/mmpbdjdnmhgkpligeniippcgfmkgkpnf/related) can be useful.
+### Be able to include diagram
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
