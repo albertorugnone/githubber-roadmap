@@ -1,15 +1,15 @@
 ## The beginning
-In questi giorni che sto cercando come rimodellare la mia carriera ho dovuto fare in conti con tante cose che dovrebbero essere nelle mie competenze.
+These days that I'm trying to figure out how to reshape my career, I've had to come to terms with so many things that should be in my skill set.
 
-Ed è come un percorso da fare a ritroso che ti conduce, di fatto, all'inizio.
+And it's like a path to go backwards that leads you, in fact, to the beginning.
 
-E l'inizio, ovvero la prima competenza che devo acquisire, è "come rendere pubblico quello che provo ad imparare" o altrimenti e più semplicemente, come prenderne nota
+And the beginning, which is the first skill I need to acquire, is "how to make public what I'm trying to learn" or otherwise and more simply, how to take note of it
 
-Poichè vorrei continuare ad occuparmi di software github è il luogo di elezione.
+As I would like to continue to deal with software github is the place of choice.
 
-Quindi necessito di tutti gli strumenti per poter pubblicare i miei studi su github nel modo più efficiente possibile, ovvero tutti gli strumenti per diventare un vero e proprio githubber.
+So I need all the tools to be able to publish my studies on github in the most efficient way possible, that is all the tools to become a real githubber.
 
-Per questo motivo ecco questa roadmap per diventare un favoloso githubber.
+So here is this roadmap to becoming a fabulous githubber.
 ## (My) Roadmap 
 
 ![My Roadmap](roadmap.drawio.svg)
